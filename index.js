@@ -1,1 +1,1 @@
-module.exports = require('./lib/assistant-template')
+module.exports = require('./lib/assistant-foodcheri')
