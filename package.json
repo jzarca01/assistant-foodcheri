@@ -1,10 +1,10 @@
 {
-  "name": "assistant-template",
+  "name": "assistant-foodcheri",
   "version": "3.0.0",
   "description": "Exemple de la structure d'un plugin",
   "author": "Jérémie Zarca",
   "main": "index.js",
-  "repository": "https://github.com/jzarca01/assistant-template/",
+  "repository": "https://github.com/jzarca01/assistant-foodcheri/",
   "license": "MIT",
   "dependencies": {
     "moment": "^2.22.2",
