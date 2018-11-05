@@ -1,8 +1,8 @@
 {
   "name": "assistant-foodcheri",
-  "version": "3.0.0",
-  "description": "Exemple de la structure d'un plugin",
-  "author": "Jérémie Zarca",
+  "version": "1.0.0",
+  "description": "Un plugin Foodchéri pour assistant-plugins",
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "index.js",
   "repository": "https://github.com/jzarca01/assistant-foodcheri/",
   "license": "MIT",
