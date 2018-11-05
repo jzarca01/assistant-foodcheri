@@ -20,4 +20,4 @@ Deux paramètres sont obligatoires : `email` et `password`. Ils correspondent à
 ## Utilisation
 
 Une applet a été créée : 
-- Suivre ma commande Foodchéri --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
+- [Suivre ma commande Foodchéri](https://ifttt.com/applets/WcwdEjVq-assistant-plugins-ou-en-est-mon-foodcheri) --> https://ifttt.com/applets/WcwdEjVq-assistant-plugins-ou-en-est-mon-foodcheri
